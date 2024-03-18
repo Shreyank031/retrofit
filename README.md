@@ -1,4 +1,4 @@
-# Project Name
+# Project RetroQuotes
 
 ## Description
 This project demonstrates the implementation of Retrofit for making network requests in an Android application. 
